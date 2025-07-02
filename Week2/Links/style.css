@@ -1,0 +1,41 @@
+p {
+    color:chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+}
+tables{
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #2695a6;
+}
+
+th{
+    font-family: 800;
+    background-color: #2695a6;
+    color: #ffffff;
+}
+
+tr.alt td{
+    background-color: #9aeffc;
+}
+
+ul{
+    list-style-image: url('pointer-icon.png')
+}
+
+ol{
+    list-style-type:upper-roman;
+}
+
+#menu-bar a{
+    font-family: helventia, sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color:burlywood;
+    color: #ffffff;
+}
